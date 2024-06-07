@@ -3,3 +3,5 @@ node_modules
 session.json
 books
 .DS_Store
+.idea
+.vscode
